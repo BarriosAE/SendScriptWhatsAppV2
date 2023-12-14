@@ -1,3 +1,18 @@
+ES
+Codigo para enviar el libreto entero de Shrek para sus amigos o grupos de WhatsApp
+
+Utilizacion:
+Aba el archivo en el idioma que desee y copie todo su contenido.
+
+abra whatsapp en un navegador web.(Me funciono mejor con Mozilla)
+
+Asegurese de estar en la conversacion a la que quiere enviar el libreto.
+Presione F12 y vaya a la consola. 
+Alli pegue el script copiado previamente.
+
+Listo!
+
+BR
 # SendScriptWhatsApp V2 
 
 Código para enviar o Script inteiro de Shrek para seus amigos ou grupos do WhatsApp
